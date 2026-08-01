@@ -18,6 +18,7 @@ Let us analyze $X$ under two mutually exclusive and exhaustive cases:
 2. **Case 2: $X$ is a real number.**
    * If $X$ is a real number, it must already be inside the set, occupying some $k$-th position. 
    * When applying the diagonalization rule, the $k$-th decimal digit of $X$ is **its own digit**, meaning it cannot choose a different digit to contradict itself. 
+   * Furthermore, if we insist that $X$ is a real number *while simultaneously* forcing its $k$-th digit to differ from itself, the condition becomes a sheer logical contradiction entirely disconnected from the countability of real numbers (akin to arbitrarily inserting a false statement like $1=0$).
    * Therefore, $X$ is forced to either abandon the rule, abandon the entire rule system, or step outside the set (thereby admitting it is not a real number).
 
 ## Conclusion
