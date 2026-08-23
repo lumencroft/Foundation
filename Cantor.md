@@ -21,9 +21,7 @@ If $d$ exists, it must satisfy either Case 2 or Case 3.
     $\therefore \bot$ (Logical Contradiction. Case 2 is False).
 
 *   **Evaluating Case 3 ($d \notin D$):**
-    By its construction rule, $d$ is an infinite sequence. 
-    By definition, $D$ contains *all* infinite sequences. 
-    The statement "$d$ is an infinite sequence $\land d \notin D$" directly violates the definition of $D$.
+    By the initial premise, $D$ is the universal set of all infinite sequences. Therefore, the proposition $d \notin D$ trivially contradicts the             definition of $D$.
     $\therefore \bot$ (Logical Contradiction. Case 3 is False).
 
 **[Conclusion]**
