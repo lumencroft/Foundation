@@ -40,7 +40,7 @@ Much like the arithmetic operation $1/x$ is valid until it encounters $x=0$, the
 During the execution of $C(f)$, the argument implicitly treats $d$ as if it resides entirely outside of $D$. By temporarily ignoring the premise that $D$ contains all sequences, the diagonal algorithm smoothly generates $d_n$ for all $n \in \mathbb{N}$ without encountering the fatal $k$-th position crash ($d_k \neq f(k)_k$). Treated as an external entity, it naturally avoids conflict with any internal element of $D$.
 
 **Phase 2: The "Under Construction" Loophole**
-If the ontological status of $d$ is questioned during this process, the argument hides behind the concept of potential infinity. At any finite step $n$, the output of $C(f)$ is merely a finite decimal. It pretends $d$ is "under construction," floating in a stateless void where it is not yet required to be classified as a member of $D$.
+If the ontological status of $d$ is questioned during this process, the argument relies on a temporal illusion. It treats $d$ as a process "under construction." However, the step-by-step elements $d_1, d_2, \dots$ are strictly distinct from the actual sequence $d$ and are not the subject of the proof. By pretending $d$ floats in a stateless void where it is not yet bound by the rules of $D$, the argument evades the immediate contradiction.
 
 **Phase 3: The Bait-and-Switch**
 Once the endless construction of $C(f)$ is declared "complete," the argument abruptly shifts its premise. It suddenly classifies the finalized $d$ as an actualized infinite sequence, retroactively forcing it into Case 2 (demanding it must belong to $D$).
