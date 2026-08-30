@@ -27,6 +27,9 @@ If $d$ exists, it must satisfy either Case 2 or Case 3.
 **[Conclusion]**
 Since Cases 2 and 3 both result in strict logical contradictions, they are false. Because the three cases are collectively exhaustive, Case 1 ($\nexists d$) is strictly true. Consequently, the diagonal operator $C(f)$ fails to produce a valid mathematical entity under these premises.
 
+**[The Failure of Reductio ad Absurdum]**
+For a Proof by Contradiction (Reductio ad Absurdum) to be valid, a contradiction must be derived through logically sound operations. However, the diagonal argument relies entirely on the evaluation of $d$.If $d$ does not exist ($\nexists d$): The operator $C(f)$ is undefined. An undefined operation cannot be used as a valid logical mechanism to derive a contradiction. Thus, the premise ($f$ is surjective) remains unfalsified.If $d$ exists ($\exists d$): As proven in Cases 2 and 3, it forces an inherent structural paradox ($d_k \neq d_k$ or $d \notin D$). This paradox is a byproduct of the self-referential design of $C(f)$, not a legitimate falsification of the premise.In formal logic, if introducing an entity $d$ under a premise yields a structural paradox if it exists, and an invalid operation if it does not exist, the deduction itself is structurally flawed. The contradiction arises from the illegitimacy of the diagonal operator, not from the assumption of countability.$\therefore$ Cantor's Diagonal Argument is fundamentally invalid and fails to prove that the set of all infinite sequences is uncountable.
+
 ---
 
 ## The Illusion of Validity: Unmasking the Diagonal Trick
